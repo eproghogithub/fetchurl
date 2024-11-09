@@ -1,20 +1,17 @@
 {
   "public_identifier": "prosenjit-ghosh-266b82235",
-  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/prosenjit-ghosh-266b82235/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b000
-0000001%2F20241109%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073024Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2b4a4ca168307284ceea0c013052c7ba656c4bdbf3301bb39af7bf3bbeea4083",
-  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/prosenjit-ghosh-266b82235/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56
-a0400b0000000001%2F20241109%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073024Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7238bbbc10bada51558dac2498107fa1ecc1133e158e09a569eb3075dc79c453",
+  "profile_pic_url": "https://media.licdn.com/dms/image/v2/D4D03AQEab_GOoQdFoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1676321294310?e=1736380800&v=beta&t=IgYvmM8JgpzCoH4_sTGcIkvN6gvJ_UKi1UtfUJgoc7M",
+  "background_cover_image_url": null,
   "first_name": "Prosenjit",
   "last_name": "Ghosh",
   "full_name": "Prosenjit Ghosh",
-  "follower_count": null,
-  "occupation": "Specialist at Ericsson India Global Services Private Limited",
-  "headline": "IOT, Business Support Solutions, BlockChain, AWS, Machine Learning",
-  "summary": "Nearly 12+ years of industry experience in Telecom ( BSS & Mediation & Networking). Familiar with numerous Technologies/OS/Databases/Protocols/Tools. ( Kubernetes, An
-sible, Linux, Solaris, Oracle, Hadoop, Cassandra, KAFKA, VMware, MySQL, Diameter, XML, JSON, RPC, SIGTRAN, Static Routing, BGP, OSPF, Switching, Firewall, MPLS, Python, Shell Scrip
-ting, Wireshark ). Impactful contribution in all projects associated with. Also working as Customer Technical Manager. Part of Emergency Recovery team.\n\nSelf Learned through  onl
-ine platform -  Kubernetes, Kafka, Cassandra, Blockchain , AWS, Azure , Python, IOT, Ansible, VMware, Machine Learning, R for Statistics.\n\nVery much interested to learn , explore
- and deliver on IOT, Block-Chain, Machine Learning with Cloud computing. \n\nMy quote \"When passion joins with profession it results in productivity\".\n\nPlease visit www.eprogho.com to check few of my creations.",
+  "follower_count": 381,
+  "occupation": "Senior Technical Support Specialist at Ericsson",
+  "headline": "Charging System|Mediation|Billing|5G|IOT|QuantumComputing|Robotics|Python|Java|Javascript|AI|ML|NLP|LLM|GenAI|Kubernetes|Jenkins|GIT|KAFKA|BlockChain|FullStack|Network|Android|Azure|AWS|Vmware|Cassandra|Bigdata",
+  "summary": "With over 15 years of industry experience in Telecom (Charging System, Mediation, Billing and Networking), I have a strong foundation in various technologies, operati
+ng systems, databases, protocols, and tools. My expertise includes:\n\nTechnologies/Tools/3PP: Kubernetes, Ansible, Linux, Solaris, Oracle, Hadoop, Cassandra, KAFKA, VMware, MySQL,
+ Python, Shell Scripting, Wireshark\nProtocols: Diameter, XML, JSON, RPC, SIGTRAN\nCloud: AWS, Azure\nNetworking: Static Routing, BGP, OSPF, Switching, Firewall, MPLS, IP-Sec, VPN,
+ DNS\nSpecial Interests: IOT, Robotics, AI, Deep Learning, Python, Javascript, BlockChain\n\n\nI have made impactful contributions to all projects I have been associated with and currently work as a Senior Specialist and Customer Technical Manager . I am also a part of the Emergency Recovery team.",
   "country": "IN",
   "country_full_name": "India",
   "city": "Kolkata",
@@ -23,17 +20,78 @@ ine platform -  Kubernetes, Kafka, Cassandra, Blockchain , AWS, Azure , Python, 
     {
       "starts_at": {
         "day": 1,
-        "month": 5,
-        "year": 2013
+        "month": 4,
+        "year": 2022
       },
       "ends_at": null,
-      "company": "Ericsson India Global Services Private Limited",
-      "company_linkedin_profile_url": null,
+      "company": "Ericsson",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ericsson",
+      "company_facebook_profile_url": null,
+      "title": "Senior Technical Support Specialist",
+      "description": null,
+      "location": "Kolkata, West Bengal, India",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ericsson/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241109%
+2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T083056Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=66bfb8bf5d3d582ccbfcc3e7674100336f2e155ba3825ecbfe6dcd4756317613"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2022
+      },
+      "company": "Ericsson",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ericsson",
       "company_facebook_profile_url": null,
       "title": "Specialist",
       "description": null,
-      "location": null,
-      "logo_url": null
+      "location": "Kolkata, West Bengal, India",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ericsson/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241109%
+2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T083056Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=66bfb8bf5d3d582ccbfcc3e7674100336f2e155ba3825ecbfe6dcd4756317613"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2015
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2018
+      },
+      "company": "Ericsson",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ericsson",
+      "company_facebook_profile_url": null,
+      "title": "Senior Engineer",
+      "description": null,
+      "location": "Kolkata, West Bengal, India",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ericsson/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241109%
+2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T083056Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=66bfb8bf5d3d582ccbfcc3e7674100336f2e155ba3825ecbfe6dcd4756317613"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2015
+      },
+      "company": "Ericsson",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ericsson",
+      "company_facebook_profile_url": null,
+      "title": "Engineer",
+      "description": null,
+      "location": "Kolkata, West Bengal, India",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ericsson/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241109%
+2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T083056Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=66bfb8bf5d3d582ccbfcc3e7674100336f2e155ba3825ecbfe6dcd4756317613"
     },
     {
       "starts_at": {
@@ -46,14 +104,14 @@ ine platform -  Kubernetes, Kafka, Cassandra, Blockchain , AWS, Azure , Python, 
         "month": 4,
         "year": 2013
       },
-      "company": "Aircel",
-      "company_linkedin_profile_url": "https://in.linkedin.com/company/aircel",
+      "company": "Aircel Limited",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/aircel-limited-india",
       "company_facebook_profile_url": null,
       "title": "Executive",
       "description": null,
       "location": "Kolkata, West Bengal, India",
-      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/aircel/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241109%2F
-us-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073026Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=217a2dceea9e97e0a652e7b35ea0a9a9621f189225db458a54e83646e82182a1"
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/aircel-limited-india/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001
+%2F20241109%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T083056Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=a19886320d0bd99df1b41e61b1e98eab717c95a4009c4678f38130f3b5e34850"
     },
     {
       "starts_at": {
@@ -66,36 +124,37 @@ us-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073026Z&X-Amz-Expires=1800&X
         "month": 5,
         "year": 2011
       },
-      "company": "Ericsson india limited",
-      "company_linkedin_profile_url": null,
+      "company": "Ericsson",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/ericsson",
       "company_facebook_profile_url": null,
       "title": "Solutions Integrator",
       "description": null,
       "location": "Kolkata, West Bengal, India",
-      "logo_url": null
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ericsson/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241109%
+2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T083056Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=66bfb8bf5d3d582ccbfcc3e7674100336f2e155ba3825ecbfe6dcd4756317613"
     }
   ],
   "education": [
     {
       "starts_at": {
         "day": 1,
-        "month": 1,
+        "month": 4,
         "year": 2004
       },
       "ends_at": {
-        "day": 31,
-        "month": 12,
+        "day": 30,
+        "month": 4,
         "year": 2008
       },
       "field_of_study": "Electrical, Electronics and Communications Engineering",
       "degree_name": "Bachelor of Technology - BTech",
       "school": "Meghnad Saha Institute Of Technology(MSIT)",
-      "school_linkedin_profile_url": "https://in.linkedin.com/school/meghnadsahainstituteoftechnology/",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/13317520/",
       "school_facebook_profile_url": null,
       "description": null,
       "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/meghnadsahainstituteoftechnology/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a040
-0b0000000001%2F20241109%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073026Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=43836308badfc48e46481ed7d0d43213b37ed9632667da785e428c08dccfb01d",
-      "grade": null,
+0b0000000001%2F20241109%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T083056Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=dcbaa08b75804f992572f186013b0249cc4d22a18665e68b26ff0adb98cff1d9",
+      "grade": "A",
       "activities_and_societies": null
     }
   ],
@@ -113,15 +172,6 @@ us-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073026Z&X-Amz-Expires=1800&X
     {
       "starts_at": null,
       "ends_at": null,
-      "name": "Oracle Certified Professional, Java SE 6 Programmer",
-      "license_number": null,
-      "display_source": null,
-      "authority": "Oracle",
-      "url": null
-    },
-    {
-      "starts_at": null,
-      "ends_at": null,
       "name": "Red Hat Certified System Administrator (RHCSA)",
       "license_number": null,
       "display_source": null,
@@ -136,10 +186,123 @@ us-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073026Z&X-Amz-Expires=1800&X
       "display_source": null,
       "authority": "VMware",
       "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "Oracle Certified Professional, Java SE 6 Programmer",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Oracle",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2022
+      },
+      "ends_at": null,
+      "name": "[PCEP-30-02] PCEP \u2013 Certified Entry-Level Python Programmer",
+      "license_number": null,
+      "display_source": "credly.com",
+      "authority": "Python Institute",
+      "url": "https://www.credly.com/badges/57563871-38e5-43e5-b173-d1f41253b8f8/linked_in_profile"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2023
+      },
+      "ends_at": null,
+      "name": "Cloud Native-Experienced Assessment",
+      "license_number": null,
+      "display_source": "credly.com",
+      "authority": "Ericsson",
+      "url": "https://www.credly.com/badges/d1a0033d-dd8a-47d6-9283-dccd23c448a3/linked_in_profile"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2023
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2024
+      },
+      "name": "Microsoft Certified: Azure Solutions Architect Expert",
+      "license_number": "FE7F99458EDA947D",
+      "display_source": "microsoft.com",
+      "authority": "Microsoft",
+      "url": "https://learn.microsoft.com/api/credentials/share/en-us/ProsenjitGhosh-8240/FE7F99458EDA947D?sharingId"
     }
   ],
-  "connections": 36,
-  "people_also_viewed": [],
+  "connections": 375,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/ujjal-biswas-1b188a1ab?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADES3JUBu-npU3wGR9cy7ujLKr5G6QTFFXo",
+      "name": "Ujjal Biswas",
+      "summary": "Infra Manager",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/prosenjit-das-a4a53a1a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAP-mFoBLWa0Az1iHAY-90Uu90pGjg7qchE",
+      "name": "Prosenjit Das",
+      "summary": "SD Business Execution Process Manager - LOOKING FOR NEW OPPORTUNITIES!!",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/amit-jain-b34126a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAHMPNgBLBgaxJKI66inB6C6VdCnxpVIKs0",
+      "name": "Amit Jain",
+      "summary": "Ericsson India Private Limited",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/satya-siddharth-nath-1b1802104?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABp1rpUBOq_93-5-m8oEjak44e8DskOf5Uk",
+      "name": "Satya Siddharth Nath",
+      "summary": "CCNA#685812 || Data Network Engineer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/ajay-thakor-579a37322?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFGqvW0Bv7zT_VXbuFAruH6LNG1Z5E3SA5I",
+      "name": "Ajay Thakor",
+      "summary": "Senior Associate  at IFSCA",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/amandeep-jindal-92355b3b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAhyUGsBf29d4lVSv-_s_Y3kyOP6uAkxR9g",
+      "name": "Amandeep Jindal",
+      "summary": "Senior Specialist - CKA|CKAD|Ericsson Charging | BSS |5G CHF|RHCSA|IOT|Python",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sahukirankumar?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAtyqU0BWVFNeH84OO9w8u228xRBW8pw32U",
+      "name": "Kiran Kumar Sahu",
+      "summary": "DevOps Engineer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/rahul-j-88675046?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAm4jeYB1zGmlWGIX521360_ENsopZtAX78",
+      "name": "Rahul J",
+      "summary": "Specialist Officer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/shuvajit-malick-ab223a248?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAD1CVKYBkD9diYzcfBWUFLB3kaqRCHhJqdg",
+      "name": "Shuvajit Malick",
+      "summary": "--",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/biswanath-biswas-5b86b37?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAFZSpwBNx3kh2WNQzErjQDk56GMrtmOdXs",
+      "name": "Biswanath Biswas",
+      "summary": "Specialist- (IP/Telecom/Data Center)at Ericsson India Global Services Pvt Ltd",
+      "location": null
+    }
+  ],
   "recommendations": [],
   "activities": [
     {
@@ -153,7 +316,7 @@ us-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073026Z&X-Amz-Expires=1800&X
       "activity_status": "Liked by Prosenjit Ghosh"
     },
     {
-      "title": "#feelinghappy #feelingproud To get recognized for my contribution in #devops . All thanks to Cognizant to provide me with the environment where I am\u2026",
+      "title": "#feelinghappy #feelingproud To get recognized for my contribution in #devops . All thanks to Cognizant to provide me with the environment where I am\u2026",        
       "link": "https://www.linkedin.com/signup/cold-join",
       "activity_status": "Liked by Prosenjit Ghosh"
     }
@@ -193,24 +356,80 @@ us-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073026Z&X-Amz-Expires=1800&X
   "articles": [],
   "groups": [
     {
-      "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQHQyoqpbvwhLA/group-logo_image-shrink_92x92/0/1538129557836?e=1648886400&v=beta&t=81h0akqZCQUdWE7MiGdVnDopgG8sbCT5-e1X6CQFrLk",
-      "name": "Machine Learning Community (Moderated)",
-      "url": "https://www.linkedin.com/groups/961087"
+      "profile_pic_url": "https://media.licdn.com/dms/image/v2/C5107AQHVXk1msabhrg/group-logo_image-shrink_400x400/group-logo_image-shrink_400x400/0/1631007939670?e=1731747600&v=beta&t=ZJr8BPLCReUtMtRALaeSAGAwfketgGWMWDnIfDiJU8E",
+      "name": "Ericsson - Network Engineers Community",
+      "url": "https://www.linkedin.com/groups/75296"
     },
     {
-      "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQHwzHzy4qrgaw/group-logo_image-shrink_92x92/0/1631004564272?e=1648886400&v=beta&t=h0Wl_feE1x40e8OL31Cv1cvTE-jzQqN3ZYLMZqASJqU",
-      "name": "Python Developers Community (moderated)",
-      "url": "https://www.linkedin.com/groups/25827"
+      "profile_pic_url": "https://media.licdn.com/dms/image/v2/D4D07AQGWsloHdgQkGA/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1686439264302?e=1731747600&v=beta&t=oLDVAoA8b-fl0LLtEwUbo1PE8riFYPi9NgA9CAoxzuQ",
+      "name": "Artificial Intelligence \ud83d\udfe5",
+      "url": "https://www.linkedin.com/groups/3746827"
     }
   ],
-  "skills": [],
+  "skills": [
+    "Pyhton",
+    "Data Analysis",
+    "Billing Systems",
+    "Emergency Management",
+    "MAPR",
+    "Hadoop",
+    "MySQL",
+    "SIGTRAN",
+    "Juniper Firewalls",
+    "Oracle Database",
+    "Helm Charts",
+    "PySpark",
+    "Jenkins",
+    "Machine Learning",
+    "Python (Programming Language)",
+    "Internet of Things (IoT)",
+    "React.js",
+    "AngularJS",
+    "Node.js",
+    "MongoDB",
+    "PugJS",
+    "Express.js",
+    "Linux",
+    "Django",
+    "Cascading Style Sheets (CSS)",
+    "JavaScript",
+    "HTML",
+    "Selenium",
+    "Android Development",
+    "Microsoft Power BI",
+    "Git",
+    "5G",
+    "Apache Kafka",
+    "Customer technical manager",
+    "Solidity",
+    "Blockchain",
+    "Amazon Web Services (AWS)",
+    "Microsoft Azure",
+    "Kubernetes",
+    "Ansible",
+    "VMware",
+    "Diameter",
+    "Big Data",
+    "R (Programming Language)",
+    "Cassandra",
+    "Customer Support",
+    "Dashboard",
+    "Charging Systems",
+    "Mediation",
+    "MPBN",
+    "Multiprotocol Label Switching (MPLS)",
+    "Wireshark",
+    "Border Gateway Protocol (BGP)",
+    "Open Shortest Path First (OSPF)",
+    "Networking"
+  ],
   "inferred_salary": {
     "min": null,
     "max": null
   },
   "gender": null,
   "birth_date": null,
-  "industry": null,
+  "industry": "Telecommunications",
   "extra": {
     "github_profile_id": null,
     "twitter_profile_id": null,
