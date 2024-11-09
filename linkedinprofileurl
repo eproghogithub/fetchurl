@@ -1,0 +1,445 @@
+{
+  "public_identifier": "prosenjit-ghosh-266b82235",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/prosenjit-ghosh-266b82235/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b000
+0000001%2F20241109%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T072951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2e860a2be0e52f5d0c90ef1f5bff88c412e9c491106a74ac629536df5bf24c6e",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/prosenjit-ghosh-266b82235/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56
+a0400b0000000001%2F20241109%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T072951Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a18f1698a501aecd3e8ff54d8f0977e9cb8c46535c9dd234b3a23f39ecc2a4cc",
+  "first_name": "Prosenjit",
+  "last_name": "Ghosh",
+  "full_name": "Prosenjit Ghosh",
+  "follower_count": null,
+  "occupation": "Specialist at Ericsson India Global Services Private Limited",
+  "headline": "IOT, Business Support Solutions, BlockChain, AWS, Machine Learning",
+  "summary": "Nearly 12+ years of industry experience in Telecom ( BSS & Mediation & Networking). Familiar with numerous Technologies/OS/Databases/Protocols/Tools. ( Kubernetes, An
+sible, Linux, Solaris, Oracle, Hadoop, Cassandra, KAFKA, VMware, MySQL, Diameter, XML, JSON, RPC, SIGTRAN, Static Routing, BGP, OSPF, Switching, Firewall, MPLS, Python, Shell Scrip
+ting, Wireshark ). Impactful contribution in all projects associated with. Also working as Customer Technical Manager. Part of Emergency Recovery team.\n\nSelf Learned through  onl
+ine platform -  Kubernetes, Kafka, Cassandra, Blockchain , AWS, Azure , Python, IOT, Ansible, VMware, Machine Learning, R for Statistics.\n\nVery much interested to learn , explore
+ and deliver on IOT, Block-Chain, Machine Learning with Cloud computing. \n\nMy quote \"When passion joins with profession it results in productivity\".\n\nPlease visit www.eprogho.com to check few of my creations.",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "Kolkata",
+  "state": "West Bengal",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": null,
+      "company": "Ericsson India Global Services Private Limited",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Specialist",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2013
+      },
+      "company": "Aircel",
+      "company_linkedin_profile_url": "https://in.linkedin.com/company/aircel",
+      "company_facebook_profile_url": null,
+      "title": "Executive",
+      "description": null,
+      "location": "Kolkata, West Bengal, India",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/aircel/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241109%2F
+us-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T072954Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=ff7c7e9ae8fc6ce6291d334ae83463a4e4d6103c5d5c04bf76f3bbfa49774e3a"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2011
+      },
+      "company": "Ericsson india limited",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Solutions Integrator",
+      "description": null,
+      "location": "Kolkata, West Bengal, India",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "field_of_study": "Electrical, Electronics and Communications Engineering",
+      "degree_name": "Bachelor of Technology - BTech",
+      "school": "Meghnad Saha Institute Of Technology(MSIT)",
+      "school_linkedin_profile_url": "https://in.linkedin.com/school/meghnadsahainstituteoftechnology/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/meghnadsahainstituteoftechnology/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a040
+0b0000000001%2F20241109%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T072954Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d5b5511f7aaa1f229e510a6fec11e48384954cbb065e4c336a86e4bb5623b7fd",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "Oracle Certified Professional, Java SE 6 Programmer",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Oracle",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "Red Hat Certified System Administrator (RHCSA)",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Red Hat",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "VMware Certified Professional  - Data Center Virtualization 2021",
+      "license_number": null,
+      "display_source": null,
+      "authority": "VMware",
+      "url": null
+    }
+  ],
+  "connections": 36,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "In India, people spend 10 Lakh rupees to get a degree, which will give them a job of 3 LPASame people won't buy a 1000 rupees course which can give\u2026",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Liked by Prosenjit Ghosh"
+    },
+    {
+      "title": "https://lnkd.in/d6XfyFiH",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Liked by Prosenjit Ghosh"
+    },
+    {
+      "title": "#feelinghappy #feelingproud To get recognized for my contribution in #devops . All thanks to Cognizant to provide me with the environment where I am\u2026",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Liked by Prosenjit Ghosh"
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Prosenjit Ghosh",
+      "link": "https://in.linkedin.com/in/prosenjit-ghosh-42963a56",
+      "summary": "Sea food export consultant",
+      "location": "Haora"
+    },
+    {
+      "name": "Prosenjit Ghosh",
+      "link": "https://in.linkedin.com/in/prosenjit-ghosh-25a6a215",
+      "summary": "International Oil Tank calibration specialist - marine ship tankers & shore tanks, tank roundness, settlement",
+      "location": "Haora"
+    },
+    {
+      "name": "PROSENJIT GHOSH",
+      "link": "https://in.linkedin.com/in/onlyprosenjit-ghosh-4ba06775",
+      "summary": "Ready to chennel sales,Growth brand value,Sales & collection devolopment, business.ayush@apinoindia.in",
+      "location": "Jalpaiguri"
+    },
+    {
+      "name": "Prosenjit Ghosh",
+      "link": "https://in.linkedin.com/in/prosenjit-ghosh-295313a7",
+      "summary": "Prof at IISc, Bangalore",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Prosenjit Ghosh",
+      "link": "https://in.linkedin.com/in/prosenjit-ghosh-ba332296",
+      "summary": "Human Resource - Axis Bank Ltd.",
+      "location": "Hajo"
+    }
+  ],
+  "articles": [],
+  "groups": [
+    {
+      "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQHQyoqpbvwhLA/group-logo_image-shrink_92x92/0/1538129557836?e=1648886400&v=beta&t=81h0akqZCQUdWE7MiGdVnDopgG8sbCT5-e1X6CQFrLk",
+      "name": "Machine Learning Community (Moderated)",
+      "url": "https://www.linkedin.com/groups/961087"
+    },
+    {
+      "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQHwzHzy4qrgaw/group-logo_image-shrink_92x92/0/1631004564272?e=1648886400&v=beta&t=h0Wl_feE1x40e8OL31Cv1cvTE-jzQqN3ZYLMZqASJqU",
+      "name": "Python Developers Community (moderated)",
+      "url": "https://www.linkedin.com/groups/25827"
+    }
+  ],
+  "skills": [],
+  "inferred_salary": {
+    "min": null,
+    "max": null
+  },
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": {
+    "github_profile_id": null,
+    "twitter_profile_id": null,
+    "facebook_profile_id": null
+  },
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
+(.venv1) PS C:\Users\prose\PycharmProjects\LLM\.venv1\Scripts> python .\7-Use-ProxyURL-To-Fetch-LinkedIn-Information-JSON.py
+{
+  "public_identifier": "prosenjit-ghosh-266b82235",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/prosenjit-ghosh-266b82235/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b000
+0000001%2F20241109%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073024Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2b4a4ca168307284ceea0c013052c7ba656c4bdbf3301bb39af7bf3bbeea4083",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/prosenjit-ghosh-266b82235/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56
+a0400b0000000001%2F20241109%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073024Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7238bbbc10bada51558dac2498107fa1ecc1133e158e09a569eb3075dc79c453",
+  "first_name": "Prosenjit",
+  "last_name": "Ghosh",
+  "full_name": "Prosenjit Ghosh",
+  "follower_count": null,
+  "occupation": "Specialist at Ericsson India Global Services Private Limited",
+  "headline": "IOT, Business Support Solutions, BlockChain, AWS, Machine Learning",
+  "summary": "Nearly 12+ years of industry experience in Telecom ( BSS & Mediation & Networking). Familiar with numerous Technologies/OS/Databases/Protocols/Tools. ( Kubernetes, An
+sible, Linux, Solaris, Oracle, Hadoop, Cassandra, KAFKA, VMware, MySQL, Diameter, XML, JSON, RPC, SIGTRAN, Static Routing, BGP, OSPF, Switching, Firewall, MPLS, Python, Shell Scrip
+ting, Wireshark ). Impactful contribution in all projects associated with. Also working as Customer Technical Manager. Part of Emergency Recovery team.\n\nSelf Learned through  onl
+ine platform -  Kubernetes, Kafka, Cassandra, Blockchain , AWS, Azure , Python, IOT, Ansible, VMware, Machine Learning, R for Statistics.\n\nVery much interested to learn , explore
+ and deliver on IOT, Block-Chain, Machine Learning with Cloud computing. \n\nMy quote \"When passion joins with profession it results in productivity\".\n\nPlease visit www.eprogho.com to check few of my creations.",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "Kolkata",
+  "state": "West Bengal",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": null,
+      "company": "Ericsson India Global Services Private Limited",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Specialist",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2013
+      },
+      "company": "Aircel",
+      "company_linkedin_profile_url": "https://in.linkedin.com/company/aircel",
+      "company_facebook_profile_url": null,
+      "title": "Executive",
+      "description": null,
+      "location": "Kolkata, West Bengal, India",
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/aircel/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241109%2F
+us-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073026Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=217a2dceea9e97e0a652e7b35ea0a9a9621f189225db458a54e83646e82182a1"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 5,
+        "year": 2011
+      },
+      "company": "Ericsson india limited",
+      "company_linkedin_profile_url": null,
+      "company_facebook_profile_url": null,
+      "title": "Solutions Integrator",
+      "description": null,
+      "location": "Kolkata, West Bengal, India",
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2008
+      },
+      "field_of_study": "Electrical, Electronics and Communications Engineering",
+      "degree_name": "Bachelor of Technology - BTech",
+      "school": "Meghnad Saha Institute Of Technology(MSIT)",
+      "school_linkedin_profile_url": "https://in.linkedin.com/school/meghnadsahainstituteoftechnology/",
+      "school_facebook_profile_url": null,
+      "description": null,
+      "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/meghnadsahainstituteoftechnology/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a040
+0b0000000001%2F20241109%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241109T073026Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=43836308badfc48e46481ed7d0d43213b37ed9632667da785e428c08dccfb01d",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "languages_and_proficiencies": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "Oracle Certified Professional, Java SE 6 Programmer",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Oracle",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "Red Hat Certified System Administrator (RHCSA)",
+      "license_number": null,
+      "display_source": null,
+      "authority": "Red Hat",
+      "url": null
+    },
+    {
+      "starts_at": null,
+      "ends_at": null,
+      "name": "VMware Certified Professional  - Data Center Virtualization 2021",
+      "license_number": null,
+      "display_source": null,
+      "authority": "VMware",
+      "url": null
+    }
+  ],
+  "connections": 36,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "In India, people spend 10 Lakh rupees to get a degree, which will give them a job of 3 LPASame people won't buy a 1000 rupees course which can give\u2026",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Liked by Prosenjit Ghosh"
+    },
+    {
+      "title": "https://lnkd.in/d6XfyFiH",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Liked by Prosenjit Ghosh"
+    },
+    {
+      "title": "#feelinghappy #feelingproud To get recognized for my contribution in #devops . All thanks to Cognizant to provide me with the environment where I am\u2026",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Liked by Prosenjit Ghosh"
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Prosenjit Ghosh",
+      "link": "https://in.linkedin.com/in/prosenjit-ghosh-42963a56",
+      "summary": "Sea food export consultant",
+      "location": "Haora"
+    },
+    {
+      "name": "Prosenjit Ghosh",
+      "link": "https://in.linkedin.com/in/prosenjit-ghosh-25a6a215",
+      "summary": "International Oil Tank calibration specialist - marine ship tankers & shore tanks, tank roundness, settlement",
+      "location": "Haora"
+    },
+    {
+      "name": "PROSENJIT GHOSH",
+      "link": "https://in.linkedin.com/in/onlyprosenjit-ghosh-4ba06775",
+      "summary": "Ready to chennel sales,Growth brand value,Sales & collection devolopment, business.ayush@apinoindia.in",
+      "location": "Jalpaiguri"
+    },
+    {
+      "name": "Prosenjit Ghosh",
+      "link": "https://in.linkedin.com/in/prosenjit-ghosh-295313a7",
+      "summary": "Prof at IISc, Bangalore",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Prosenjit Ghosh",
+      "link": "https://in.linkedin.com/in/prosenjit-ghosh-ba332296",
+      "summary": "Human Resource - Axis Bank Ltd.",
+      "location": "Hajo"
+    }
+  ],
+  "articles": [],
+  "groups": [
+    {
+      "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQHQyoqpbvwhLA/group-logo_image-shrink_92x92/0/1538129557836?e=1648886400&v=beta&t=81h0akqZCQUdWE7MiGdVnDopgG8sbCT5-e1X6CQFrLk",
+      "name": "Machine Learning Community (Moderated)",
+      "url": "https://www.linkedin.com/groups/961087"
+    },
+    {
+      "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C4D07AQHwzHzy4qrgaw/group-logo_image-shrink_92x92/0/1631004564272?e=1648886400&v=beta&t=h0Wl_feE1x40e8OL31Cv1cvTE-jzQqN3ZYLMZqASJqU",
+      "name": "Python Developers Community (moderated)",
+      "url": "https://www.linkedin.com/groups/25827"
+    }
+  ],
+  "skills": [],
+  "inferred_salary": {
+    "min": null,
+    "max": null
+  },
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": {
+    "github_profile_id": null,
+    "twitter_profile_id": null,
+    "facebook_profile_id": null
+  },
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
